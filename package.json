@@ -1,0 +1,25 @@
+{
+  "name": "mongo-stream",
+  "version": "1.0.0",
+  "description": "Fetch data From Mongo in stream",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badhenikhil/node-mongo-stream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badhenikhil/node-mongo-stream/issues"
+  },
+  "homepage": "https://github.com/badhenikhil/node-mongo-stream#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4"
+  }
+}
